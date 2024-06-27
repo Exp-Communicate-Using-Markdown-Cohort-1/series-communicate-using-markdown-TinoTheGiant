@@ -1,2 +1,4 @@
 # Trying to learn svelte
-## Its  a bit like javascript
+## It's  a bit like javascript
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
